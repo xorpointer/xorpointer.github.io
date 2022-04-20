@@ -1,0 +1,48 @@
+{
+    "1": {
+        "name": "Just tester",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xorpointer-nft.appspot.com/o/group_401.png?alt=media&token=88b5815d-26fe-487b-897f-88801025b43d",
+        "attributes": [
+            {
+                "trait_type": "Material",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Level",
+                "value": 3
+            },
+            {
+                "trait_type": "Stamina",
+                "value": 5.0
+            },
+            {
+                "trait_type": "Personality",
+                "value": "Angry"
+            }
+        ]
+    },
+    "2": {
+        "name": "Just tester",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/xorpointer-nft.appspot.com/o/group_401.png?alt=media&token=88b5815d-26fe-487b-897f-88801025b43d",
+        "attributes": [
+            {
+                "trait_type": "Material",
+                "value": "Red"
+            },
+            {
+                "trait_type": "Level",
+                "value": 4
+            },
+            {
+                "trait_type": "Stamina",
+                "value": 2.0
+            },
+            {
+                "trait_type": "Personality",
+                "value": "Sad"
+            }
+        ]
+    }
+}
