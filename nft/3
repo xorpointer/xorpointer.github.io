@@ -1,0 +1,24 @@
+{
+    "name": "Test minting",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "external_url": "https://example.com/?token_id=3",
+    "image": "https://kebunmajubersama.com/wp-content/uploads/bernie2.svg",
+    "attributes": [
+        {
+            "trait_type": "Material",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Level",
+            "value": 4
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 2.0
+        },
+        {
+            "trait_type": "Personality",
+            "value": "Sad"
+        }
+    ]
+}
